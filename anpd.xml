@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>NPD Sound Bites for Cert Prep</title>
+<link>https://www.anpd.org/page/podcasts/<link>
+<language>en-us</language>
+<description>NPD Sound Bites for Cert Prep features NPD experts discussing best practices and the application of the material learned throughout the ANPD Nursing Professional Development Online Certification Preparation Course. These podcasts should be used as supplemental material to the online certification prep course and should not be used exclusively when studying for the NPD certification exam.</description>
+
+<image>
+<url>https://www.anpd.org/page/podcasts</url>
+<title>ANPD Podcasts</title>
+<link>https://www.anpd.org/page/podcasts</link>
+</image>
+
+<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
+<item>
+    <title>Intro</title>
+    <enclosure url="http://hwcdn.libsyn.com/p/7/9/1/7918be37957d2f8f/Podcast_Intro.mp3?c_id=63998366&cs_id=63998366&expiration=1589691629&hwt=f3de9e428bb19694c70fe74a19d8fa75" type="audio/mpeg" length="1024"></enclosure>
+</item> 
+
+<item>
+    <title>Change Management</title>
+    <enclosure url="http://hwcdn.libsyn.com/p/b/d/0/bd06447ab458b4d3/Change_Theory_Podcast.mp3?c_id=63996983&cs_id=63996983&expiration=1589692347&hwt=dfbe50a73d7e95aab2da30f95053768b"></enclosure>
+</item>
+
+<item>
+    <title>Communication</title>
+    <enclosure url="http://hwcdn.libsyn.com/p/8/d/e/8de615544b9033af/Communication_Podcast.mp3?c_id=63997277&cs_id=63997277&expiration=1589693194&hwt=4610bd62462ceb4eb48ae99bc0677bc7"></enclosure>
+</item>
+<item>
+    <title>Competency</title>
+    <enclosure url="http://hwcdn.libsyn.com/p/9/5/b/95b04fdb3a032010/Competency_Podcast.mp3?c_id=63997457&cs_id=63997457&expiration=1589693189&hwt=0a722064f2284a1407f66cc4816d6fda"></enclosure>
+</item>
+<item>
+    <title>Continuing Education </title>
+    <enclosure url="http://hwcdn.libsyn.com/p/f/7/7/f77cfb48d164c363/Continuing_Education_Podcast_Final.mp3?c_id=63997601&cs_id=63997601&expiration=1589693780&hwt=1f58ec01f4c08fc875a8a068c149a83e"></enclosure>
+</item>
+<item>
+    <title>Ethical & Legal</title>
+    <enclosure url="http://hwcdn.libsyn.com/p/9/9/8/9988a5b1a7323f46/Ethical__Legal.mp3?c_id=63997805&cs_id=63997805&expiration=1589692272&hwt=98ec965b3e3bba01c8be420f9c7d61b8"></enclosure>
+</item>
+<item>
+    <title>Healthy Work Environment </title>
+    <enclosure url="http://hwcdn.libsyn.com/p/9/9/b/99b2cca12303f414/Healthy_Work_Enviroment.mp3?c_id=63997892&cs_id=63997892&expiration=1589692648&hwt=09275aa719dab3e59718c6fea472e363"></enclosure>
+</item>
+<item>
+    <title>Leadership</title>
+    <enclosure url="http://hwcdn.libsyn.com/p/6/4/a/64a98dcda04b9e36/Leadership_Podcast.mp3?c_id=63998099&cs_id=63998099&expiration=1589693284&hwt=4bb744ea4b7fc4f8801802f46361e5f2"></enclosure>
+</item>
+<item>
+    <title>Learning Theories</title>
+    <enclosure url="http://hwcdn.libsyn.com/p/b/1/2/b12cb69aeef70015/Learning_Theories.mp3?c_id=63998225&cs_id=63998225&expiration=1589692500&hwt=05bb4496a154fa9ba8e017e685c28186"></enclosure>
+</item>
+<item>
+    <title>Program Management</title>
+    <enclosure url="http://hwcdn.libsyn.com/p/b/7/8/b785f91d3f5c71f6/Program_Management.mp3?c_id=63998456&cs_id=63998456&expiration=1589692651&hwt=76889640eac2c466e11f559400177c5a"></enclosure>
+</item>
+<item>
+    <title>Role Development</title>
+    <enclosure url="http://hwcdn.libsyn.com/p/a/5/e/a5e0cf87a99c4766/Role_Development.mp3?c_id=63998561&cs_id=63998561&expiration=1589692112&hwt=012c4fdfa1a2a3494f26331b3998e629"></enclosure>
+</item>
+<item>
+    <title>Technology</title>
+    <enclosure url="http://hwcdn.libsyn.com/p/1/a/f/1af7999429050c36/Technology.mp3?c_id=63998699&cs_id=63998699&expiration=1589693008&hwt=51577d39aad0a663e9b21236c026d13b"></enclosure>
+</item>
+<!--END REPEAT--> 
+   
+</channel>
+</rss>
